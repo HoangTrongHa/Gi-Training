@@ -1,117 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="06fd33f5-bc20-41cb-aafe-47297f9a98b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PhpTraining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ENZO-MB-NEW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ENZO-PC-NEW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ENZO_bank_logo_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ENZO_bank_logo_black@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ENZO_bank_logo_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ENZO_bank_logo_white@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/appstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/caution.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/comment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/dashboard-basic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/dashboard-coming.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/dashboard-ecommerce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/dashboard-finance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo-service-buy-and-pay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo-service-plan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo-service-rose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo-service-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo_topbb_pc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo_topbb_pc@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/enzo_topbb_sp_w750xh1334px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/factoring_step1_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/factoring_step2_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/factoring_step3_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/factoring_step4_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/android-chrome-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/android-chrome-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/android-chrome-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/android-chrome-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/android-chrome-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/favicons/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature1_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature1_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature2_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature2_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature2_popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature3_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature3_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature3_popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature4_illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/feature4_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/form_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/form_qa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/google-play-badge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/human_illustration_pc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/human_illustration_sp-svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/human_illustration_sp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icon_qa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/icons8-line.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ippon-tate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ippon-yoko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/laraspace-mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/logo_footer_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/logo_footer_2@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/logo_header_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/logo_header_2@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/mockup-basic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/mockup-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/mockup-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/modal_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/modal_close@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_01@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_02@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_03@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/no_04@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/play@x2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/pressrelease.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/scheme_diagram_pc-svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/scheme_diagram_pc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/scheme_diagram_sp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/scheme_diagram_sp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sign-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sky-night.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,13 +69,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gi\Desktop\PhpTraining\css" />
       <recent name="C:\Users\gi\Desktop\PhpTraining" />
     </key>
   </component>
@@ -165,17 +94,38 @@
       <workItem from="1601344694946" duration="2523000" />
       <workItem from="1601347242518" duration="4088000" />
       <workItem from="1601351720761" duration="20434000" />
-      <workItem from="1601445828617" duration="14189000" />
+      <workItem from="1601445828617" duration="17384000" />
+      <workItem from="1601517798891" duration="29555000" />
+      <workItem from="1601619250540" duration="15941000" />
+      <workItem from="1601878005809" duration="19144000" />
+      <workItem from="1601949498981" duration="3760000" />
+      <workItem from="1601953295518" duration="12454000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="240" key="run.anything.popup" timestamp="1601454275277">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601636336565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601454275277" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1601636336565" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601895576557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601895576557" />
   </component>
 </project>
