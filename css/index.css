@@ -41,13 +41,13 @@ body {
 
 .header-right {
     float: right;
-    margin-right: 8VW;
+
 }
 
 .header-right .button {
     border: none;
     color: white;
-    width: 10VW;
+    width: 12VW;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -108,21 +108,22 @@ body {
 
 .comment-people {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .bubble {
     position: relative;
     font-family: sans-serif;
-    font-size: 18px;
-    width: 14%;
-
+    font-size: 15px;
+    width: 150px;
+    height: 150px;
     background: #dddddd;
     border-radius: 50%;
-    padding: 24px;
     text-align: center;
     color: #000;
-    margin: 2%;
+    display: flex;
+    align-items: center;
+    z-index: 1;
 }
 
 .bubble-bottom-left:before {
@@ -130,18 +131,19 @@ body {
     width: 0px;
     height: 0px;
     position: absolute;
-    border-left: 24px solid #dddddd;
-    border-right: 12px solid transparent;
-    border-top: 12px solid #dddddd;
-    border-bottom: 20px solid transparent;
-    left: 46%;
-    bottom: -24px;
+    border-left: 0px solid #dddddd;
+    border-right: 44px solid transparent;
+    border-top: 89px solid #dddddd;
+    border-bottom: 0 solid transparent;
+    left: 50%;
+    bottom: -25px;
+    transform: rotate(-15deg) translateX(-24%);
 }
 
 .bubble .comment-center {
     display: block;
     align-items: center;
-    margin: 2VW;
+    z-index: 2;
 }
 
 
@@ -220,13 +222,14 @@ section {
 }
 
 .logo {
-    width: 80%;
     display: flex;
     align-items: flex-end;
     border-bottom: 3px solid #01897b;
-    margin: 2% 0 2% 6%;
     padding-bottom: 1%;
+    margin-bottom: 5%;
+
 }
+
 
 .banner {
     background-color: #01897b;
@@ -237,21 +240,29 @@ section {
     display: flex;
     align-items: flex-start;
 }
-
+.banner .header-banner {
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid #ffffff;
+    margin-top: 20px;
+}
 .banner .banner-left {
-    width: 60%;
+    width: 65%;
+    display: flex;
 }
 
 .banner .banner-right {
-    width: 40%;
+    width: 35%;
+    display: flex;
+    justify-content: center;
 }
 
 .banner .banner-right img {
-    width: 30VW;
+    width: 100%;
 }
 
 .banner-left .contetn span {
-    font-size: 6VW;
+    font-size: 100px;
     color: white;
     /*border-bottom: 2px solid white;*/
     padding: 5px 5px 25px 5px;
@@ -263,35 +274,45 @@ section {
 
 .banner-left .section-content .circle {
     background-color: #00b7a4;
-    width: 7VW;
-    height: 7VW;
+    width: 110px;
+    height: 110px;
     border-radius: 50%;
     text-align: center;
     padding-top: 2VW;
+    display: flex;
+    align-items: center;
 
 }
-
-.banner-left .section-content span {
-    color: white;
-    font-size: 1VW;
-}
-
 .banner-left .section-content .circle span {
     color: white;
-    width: 7VW;
-    height: 7VW;
+    font-size: 20px;
 }
 
 .footer-banner {
     padding-top: 3VW;
-    width: 80%;
+    width: 100%;
+    text-align: center;
+    border-top: 2px solid #ffffff;
+    margin-top: 20px;
 }
 
 #footer-banner {
     font-size: 20px;
     text-align: center;
 }
+.content .content-content {
+    margin-top: 30px;
+}
+.content .content-content span{
+    color: #01897b;
+    font-size: 75px;
 
+}
+.content .content-content .title-2{
+    font-size: 40px;
+color: black;
+    margin: 10px;
+}
 .flex-container {
     display: flex;
     flex-direction: row;
@@ -327,7 +348,6 @@ section {
     align-items: center;
     padding: 50px;
 }
-
 .main {
     margin: 30px 170px 30px 170px;
     flex: 100%;
@@ -346,8 +366,7 @@ section {
 
 .footer-box {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .footer-box .footer-box-content {
@@ -356,13 +375,13 @@ section {
     margin: 5VH 1VW 3VH 0;
     text-align: center;
     padding: 30px;
-    border-radius: 30px;
+    border-radius:5%;
 }
 
 .footer-box .footer-box-content span {
     color: #f1f1f1;
 
-    font-size: 30px;
+    font-size: 123%;
 }
 
 
@@ -427,27 +446,25 @@ section {
 .box {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .box .step-item {
     background-color: #01897b;
-    width: 20%;
-    height: auto;
-    margin: 30px;
+    width: 23%;
     border-radius: 10%;
 }
 
 .step-item .step-item-span {
-    width: 50%;
-    margin: 50px auto 30px;
-    display: block;
+  display: flex;
+    align-items: center;
 }
 
 .step-item .step-item-span span {
     color: #f1f1f1;
+    font-size: 15px;
     text-align: center;
-    font-size: 30px;
+    padding: 15%;
 }
 
 .button-footer {
@@ -471,23 +488,6 @@ section {
     margin: 1.5VW;
 }
 
-/*.end {*/
-/*    margin: 0 auto;*/
-/*    float: left;*/
-/*    width: 100%;*/
-/*}*/
-
-/*.end ul {*/
-/*    list-style-type: none;*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*    width: 80%;*/
-/*}*/
-
-/*.end ul li {*/
-/*    display: inline;*/
-/*    width: 25%;*/
-/*}*/
 .footer {
     display: flex;
     align-items: center;
@@ -501,4 +501,17 @@ section {
     color: #f1f1f1;
     margin: 2VW 2VW 2VW 2VW;
     font-size: 1.5VW;
+}
+
+@media (min-width: 1200px) {
+    .section-banner .container {
+        max-width: 1260px;
+    }
+}
+@media only screen and (max-width: 1893px) {
+    .banner-left .contetn span {
+        font-size: 90px;
+        color: white;
+        padding: 5px 5px 25px 5px;
+    }
 }
